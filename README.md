@@ -16,14 +16,6 @@ Welcome to **FriendGrid**, a Facebook clone built using React. This project aims
 ## Technologies Used
 
 - **Frontend**: React, React Router, Redux (for state management), SCSS (for styling)
-- **Backend**: Node.js, Express.js (for API), MongoDB (for database)
-- **Authentication**: JWT (JSON Web Tokens)
-- **Real-time Updates**: Socket.io
-- **Deployment**: Vercel/Netlify (for frontend), Heroku/Render (for backend)
-
-## Installation
-
-To get started with the project, follow these steps:
 
 1. Clone the repository:
    ```bash
